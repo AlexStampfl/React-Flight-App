@@ -1,6 +1,8 @@
 # React-Flight-App
 Gateway Technical College's 152_001_2w7a React Final Project (Dec 2023) - Flight App
 
+(View React Project Video)[https://www.aswebdev.com/media/react_project.mp4)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
